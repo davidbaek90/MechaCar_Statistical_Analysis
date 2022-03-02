@@ -48,7 +48,7 @@ In order to quantify how the MechaCar performs against the competition, we can p
 - Safety rating
 - Acceleration (0-100km)
 - Max. Towing Capacity Weight
-- # of seats
+- number of seats
 - Truck / Boot capacity
 - Weight-power output ratio
 
